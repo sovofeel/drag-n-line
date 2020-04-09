@@ -1,4 +1,3 @@
-# borisbot-test
 
 ## Project setup
 ```
